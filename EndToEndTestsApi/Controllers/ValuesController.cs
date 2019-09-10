@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using EndToEndTestsApi.Dtos;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EndToEndTestsApi.Controllers
@@ -12,9 +13,10 @@ namespace EndToEndTestsApi.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<IEnumerable<Thing>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var thing = new Thing { Stuff = 1, MoreStuff = "One" };
+            return new List<Thing> { thing };
         }
 
         // GET api/values/5
