@@ -1,6 +1,0 @@
-C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\EndToEndTestsApi\obj\Debug\netcoreapp2.1\EndToEndTestsApi.csprojAssemblyReference.cache
-C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\EndToEndTestsApi\obj\Debug\netcoreapp2.1\EndToEndTestsApi.csproj.CoreCompileInputs.cache
-C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\EndToEndTestsApi\obj\Debug\netcoreapp2.1\EndToEndTestsApi.RazorAssemblyInfo.cache
-C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\EndToEndTestsApi\obj\Debug\netcoreapp2.1\EndToEndTestsApi.RazorAssemblyInfo.cs
-C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\EndToEndTestsApi\obj\Debug\netcoreapp2.1\EndToEndTestsApi.AssemblyInfoInputs.cache
-C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\EndToEndTestsApi\obj\Debug\netcoreapp2.1\EndToEndTestsApi.AssemblyInfo.cs
