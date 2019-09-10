@@ -1,0 +1,8 @@
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Core\obj\Debug\netcoreapp2.1\Core.pdb

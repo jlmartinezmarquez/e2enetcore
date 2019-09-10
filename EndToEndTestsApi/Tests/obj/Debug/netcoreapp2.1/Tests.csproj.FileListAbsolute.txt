@@ -1,0 +1,4 @@
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Jose\NetCoreApi\EndToEndTestsApi\EndToEndTestsApi\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
