@@ -21,11 +21,16 @@ namespace EndToEndTestsApi
         {
             services.AddMvc()
                 .SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
-                .AddJsonOptions(options => 
+                .AddJsonOptions(options =>
                 {
-                    options.SerializerSettings.Formatting = Formatting.Indented;
-                    options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver();
+                    SetJsonFormattingToPascalCase(options);
                 });
+        }
+
+        private static void SetJsonFormattingToPascalCase(MvcJsonOptions options)
+        {
+            options.SerializerSettings.Formatting = Formatting.Indented;
+            options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
